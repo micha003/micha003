@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micha003
-- 👀 I’m interested in Webdevelopment and building applications
-- 🌱 I’m currently learning Python and Js
+- 👀 I’m interested in writing automatisation scripts and building applications
+- 🌱 I’m currently learning Python 
 - 🔍 I would like to contribute to an Open-Source-Project, but I don't find one...
 
 <!---
