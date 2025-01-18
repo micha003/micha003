@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micha003
 - 👀 I’m interested in writing automatisation scripts, building websites and writing applications
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and AstroJS
 
 <!---
 micha003/micha003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
